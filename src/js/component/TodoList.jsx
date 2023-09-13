@@ -8,7 +8,9 @@ const TodoList = () => {
     <>
       <TodoHeader />
       <TodoFooter />
+      <TodoBody/>
     </>
   );
 };
 export default TodoList;
+   
